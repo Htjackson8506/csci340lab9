@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\htjac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\obj\\",
+        "outputPath": "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\htjac\\AppData\\Roaming\\NuGet\\NuGet.Config"

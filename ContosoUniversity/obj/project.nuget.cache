@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N1e8k1qBNP3HuzVWH75Ump7Ph1vy6vFqVsuGyx8Kv+Ql5RTyBNaWOa5W4yZrMoHILcM9u3OFb40QS8pqmtFYPg==",
+  "dgSpecHash": "XDvCU4t8WtQ8rcu0Et+GhYlAU6BCvcy7G0MYjCuCaYJUjN7YqEBw0FYb42N6iPKwykbkcOaLdiU3xgVs4ULNEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+  "projectFilePath": "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\htjac\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\htjac\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
