@@ -70,6 +70,7 @@ namespace ContosoUniversity.Data
                 LastName = "Olivetto",
                 EnrollmentDate = DateTime.Parse("2011-09-01")
             };
+            
 
             var students = new Student[]
             {
