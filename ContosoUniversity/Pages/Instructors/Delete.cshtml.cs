@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
+using ContosoUniversity.Data;
 
 namespace ContosoUniversity.Pages.Instructors
 {

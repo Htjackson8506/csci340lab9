@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Users\\coone\\Downloads\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Users\\coone\\Downloads\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\coone\\Downloads\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\htjac\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\htjac\\OneDrive\\Desktop\\Databases_Web_Systems\\csci340lab9\\ContosoUniversity\\obj\\",
+        "projectPath": "C:\\Users\\coone\\Downloads\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+        "packagesPath": "C:\\Users\\coone\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coone\\Downloads\\csci340lab9\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\htjac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\coone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,33 +41,29 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.12, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.SQLite": {
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
@@ -86,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
