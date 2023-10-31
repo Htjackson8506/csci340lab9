@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cvJ1eXbE4F+jjDDEvknRk2dQdgTeg/oWuOdKLMkOKQgMIlrgYlibDruGEsKv/lONcYrhZYqrC0Nh8xXcOux5mg==",
+  "dgSpecHash": "6ECVx75JIbhtsrhQK/X4PpDTQjskXUMMEBpF3rxK9AnEC3KPEbUdsMz5FOGTJhMVQM1SIqGYmJU0TdVcyDowaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\coone\\Downloads\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,7 @@
     "C:\\Users\\coone\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\coone\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\coone\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\coone\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\7.0.13\\microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\coone\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "C:\\Users\\coone\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\coone\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",
